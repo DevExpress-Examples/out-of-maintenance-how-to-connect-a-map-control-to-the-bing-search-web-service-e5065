@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ConnectBingSearchProvider/Form1.cs) (VB: [Form1.vb](./VB/ConnectBingSearchProvider/Form1.vb))
+<!-- default file list end -->
 # How to connect a map control to the Bing Search web service
 
 
